@@ -11,7 +11,7 @@
 •	Programming Language	:  Java-8\
 •	Front end				: JSP\
 •	Server side			: Spring boot\
-•	Database				: My Sql\
+•	Database				: My Sql
 
 ## Required Dependencies :
 spring-boot-starter-data-jpa\
