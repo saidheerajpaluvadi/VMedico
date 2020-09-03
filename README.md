@@ -4,7 +4,7 @@
 -> Patients have a facility to book appointments with doctors across various hospitals and testing laboratories.\
 -> Patient will get mail when the appointment is confirmed and a remainder mail on the day of the appointment.\
 -> Patient has a facility to store various medical documents.\
--> Doctors can track the patient medical history through this web application.\
+-> Doctors can track the patient medical history through this web application.
 
 ## Technical Stack:
 •	Tool					:  Spring Tool Suite\
