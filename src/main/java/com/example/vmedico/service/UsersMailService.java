@@ -110,7 +110,7 @@ public class UsersMailService {
 	    			smm.setSubject("Medication Remainder");
 	    			smm.setText("Hello, please take your medicine");	
 	    			System.out.println(p.getEmail());
-	    			//jms.send(smm);
+	    			jms.send(smm);
 	    		}
 	    		}
 	    		catch(Exception e) {
