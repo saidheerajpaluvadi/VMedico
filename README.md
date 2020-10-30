@@ -1,6 +1,6 @@
 # VMedico
 
--> Vmedico is a web application to integrate various patients, doctors, and testing laboratories.\
+-> Vmedico is a web application to integrate various patients, doctors, and testing Laboratories.\
 -> Patients have a facility to book appointments with doctors across various hospitals and testing laboratories.\
 -> Patient will get mail when the appointment is confirmed and a remainder mail on the day of the appointment.\
 -> Patient has a facility to store various medical documents.\
